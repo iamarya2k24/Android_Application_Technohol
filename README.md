@@ -1,6 +1,9 @@
 Android_Application_Technohol
 =============================
 
+This application is made by me and its my first app so any help would be appreciated.
+Am planning to use this : http://cordova.apache.org/#download but need help ;)
+
 These are the source files of TechNOHOL Application 
 
 XDA Thread | http://forum.xda-developers.com/showthread.php?p=43305894
