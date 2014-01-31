@@ -8,7 +8,7 @@ These are the source files of TechNOHOL Application
 
 [XDA Thread][1]
 
-![My image][2]  ![My image][3]
+![My image][2]|||![My image][3]
 
 Want to make it better.
 
